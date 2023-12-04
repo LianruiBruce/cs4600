@@ -1,1 +1,1 @@
-# cs4600
+# cs4600 University of Utah
